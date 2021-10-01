@@ -13,4 +13,4 @@ echo """
 rm -rf InVade
 git clone https://github.com/SURAJOP7/TITANIUMCODE
 cd InVade
-python3 -m titaniumbot
+python3 -m hellbot
